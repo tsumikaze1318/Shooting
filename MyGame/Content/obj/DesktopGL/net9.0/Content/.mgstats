@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/GameProject/MyGame/Content/bullet.png","D:/GameProject/MyGame/Content/bin/DesktopGL/Content/bullet.xnb","TextureProcessor","Texture2DContent",517,1109,0.1693041
+"D:/GameProject/MyGame/Content/enemy.png","D:/GameProject/MyGame/Content/bin/DesktopGL/Content/enemy.xnb","TextureProcessor","Texture2DContent",294,13397,0.1685557
+"D:/GameProject/MyGame/Content/entity.png","D:/GameProject/MyGame/Content/bin/DesktopGL/Content/entity.xnb","TextureProcessor","Texture2DContent",240,16469,0.1720324
+"D:/GameProject/MyGame/Content/GameFont.spritefont","D:/GameProject/MyGame/Content/bin/DesktopGL/Content/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2077,136217,0.1129533
+"D:/GameProject/MyGame/Content/player_hit_detection.png","D:/GameProject/MyGame/Content/bin/DesktopGL/Content/player_hit_detection.xnb","TextureProcessor","Texture2DContent",135,1109,0.1819498
+"D:/GameProject/MyGame/Content/player.png","D:/GameProject/MyGame/Content/bin/DesktopGL/Content/player.xnb","TextureProcessor","Texture2DContent",294,13397,0.1668569
